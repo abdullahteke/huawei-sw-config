@@ -1,0 +1,8 @@
+[42D                                          [42DNULL0                         up      up(s)    
+Vlanif1                       up      down     
+Vlanif997                     up      up       administration
+XGE0/0/1                      up      up       
+XGE0/0/2                      up      up       
+XGE0/0/3                      down    down     
+XGE0/0/4                      down    down     
+<SW-02
